@@ -28,7 +28,7 @@ This project uses the MVTec Anomaly Detection (MVTec AD) dataset:
 - **Class:** transistor  
 - **Task:** Classification-based anomaly detection  
 
-### Structure
+## Structure
 
 ```text
 transistor/
@@ -37,7 +37,7 @@ transistor/
 └── test/
     ├── good/
     └── bad/
-
+```
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -94,6 +94,8 @@ transistor/
 
 
 ## File Structure
+
+```text
 PatchCore-Industrial-Anomaly-Detection/
 │
 ├── App files/
@@ -118,7 +120,7 @@ PatchCore-Industrial-Anomaly-Detection/
 ├── destination_images/          # Folder monitored by the app
 ├── reqs.txt                     # Python dependencies
 └── README.md
-
+```
 
 
 ## Requirements
