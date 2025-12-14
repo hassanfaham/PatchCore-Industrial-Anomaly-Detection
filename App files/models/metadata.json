@@ -1,0 +1,9 @@
+{
+    "task": "classification",
+    "image_threshold": 13.194311141967773,
+    "pixel_threshold": 13.194311141967773,
+    "anomaly_maps.min": 4.518860816955566,
+    "anomaly_maps.max": 25.15780258178711,
+    "pred_scores.min": 11.254734992980957,
+    "pred_scores.max": 24.79660987854004
+}
